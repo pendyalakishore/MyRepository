@@ -16,7 +16,9 @@ namespace TestGIT1
             //dfsds
             //Added Comment.............
             Application.EnableVisualStyles();
+            //1
             Application.SetCompatibleTextRenderingDefault(false);
+            //2
             Application.Run(new Form1());
             //Code Finisshed
         }
